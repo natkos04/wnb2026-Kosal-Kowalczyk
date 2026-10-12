@@ -1,0 +1,20 @@
+# Dane wejsciowe i wyniki
+data/*
+!data/**/.gitkeep
+results/
+
+# Snakemake
+.snakemake/
+
+#Python
+__pycache__/
+*.pyc
+
+# Logi i pliki tymczasowe
+*.log
+*.tmp
+
+# testowy duzy plik
+duzy.dat
+*.dat
+
