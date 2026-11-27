@@ -1,0 +1,4 @@
+Liczba sekwencji:
+2008
+Dlugosc sekwencji:
+69

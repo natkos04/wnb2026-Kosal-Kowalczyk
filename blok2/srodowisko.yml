@@ -5,4 +5,4 @@ dependencies:
   - python=3.11
   - bioawk
   - gawk
-prefix: /home/amekow9442/.conda/envs/bioinfo_base
+prefix: /home/natkos7718/.conda/envs/bioinfo_base
